@@ -9,7 +9,7 @@ metadata:
   name: guestbook-ui
   namespace: abu
 spec:
-  replicas: 2
+  replicas: 0
   revisionHistoryLimit: 3
   selector:
     matchLabels:
