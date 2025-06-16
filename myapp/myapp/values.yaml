@@ -1,4 +1,4 @@
-replicaCount: 2
+replicaCount: 0
 
 image: 
   repository: "quay.io/argoprojlabs/argocd-e2e-container"
